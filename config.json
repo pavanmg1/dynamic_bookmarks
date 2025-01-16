@@ -1,0 +1,31 @@
+{
+    "bookmarks": [
+        {
+            "area": "autobaml1",
+            "urls": {
+                "NCPO": "https://autobaml.example.com",
+                "NCPI": "https://autobaml.example.com",
+                "NCCO": "https://autobaml.example.com",
+                "NCCI": "https://autobaml.example.com"
+            }
+        },
+        {
+            "area": "11.15.8",
+            "urls": {
+                "NCPO": "https://11.15.8.example.com",
+                "NCPI": "https://11.15.8.example.com",
+                "NCCO": "https://11.15.8.example.com",
+                "NCCI": "https://11.15.8.example.com"
+            }
+        },
+        {
+            "area": "11.15.7",
+            "urls": {
+                "NCPO": "https://11.15.7.example.com",
+                "NCPI": "https://11.15.7.example.com",
+                "NCCO": "https://11.15.7.example.com",
+                "NCCI": "https://11.15.7.example.com"
+            }
+        }
+    ]
+}
